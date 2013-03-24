@@ -1,2 +1,0 @@
-Ulysse:
-Test file.
